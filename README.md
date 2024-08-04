@@ -11,13 +11,13 @@ If you find this guide useful and use it in your work or research, please cite i
 
 ##APA
 
-Gunarathne, A. (2024). CNN_Image_classification [GitHub repository]. Retrieved from https://github.com/ayeshagunarathne/CNN_Image_classification/tree/main
+Mudiyanselage, A.K (2024). CNN_Image_classification [GitHub repository]. Retrieved from https://github.com/ayeshagunarathne/CNN_Image_classification/tree/main
 
 
 ##BibTeX
 
 @misc{gunarathne2024cnn,
-  author = {Ayesha Gunarathne},
+  author = {Ayesha Karunaratna Mudiyanselage},
   title = {CNN\_Image\_classification},
   year = {2024},
   publisher = {GitHub},
@@ -27,7 +27,7 @@ Gunarathne, A. (2024). CNN_Image_classification [GitHub repository]. Retrieved f
 
 #IEEE
 
-A. Gunarathne, "CNN_Image_classification," GitHub repository, 2024. [Online]. Available: https://github.com/ayeshagunarathne/CNN_Image_classification/tree/main
+A.K.Mudiyanselage, "CNN_Image_classification," GitHub repository, 2024. [Online]. Available: https://github.com/ayeshagunarathne/CNN_Image_classification/tree/main
 
 
 
